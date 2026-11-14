@@ -1,6 +1,6 @@
 # DPCH Online Qualifiers 2026
 
-Four challenges solved during the DPCH Online Qualifiers, played on the Cydea Range platform.
+Four challenges solved during the DPCH Online Qualifiers, played on the Cydea Range platform as team Pwnag3.
 Each writeup walks through every command that was run, why it was run, what came back, and how
 one step led to the next until the flag appeared. The failed attempts are kept in, because the
 mistakes are the part worth reading.
