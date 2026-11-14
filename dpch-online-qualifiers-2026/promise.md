@@ -388,3 +388,7 @@ The flag text describes the attack exactly: ratios of shifted inverses converge 
 ### Why it works
 
 The scheme hides `u` and `g` behind the public values, but it cannot hide the *relationships* between them. Any two public values, written as plain integers, give an equation whose unknowns are tiny compared to the modulus. Two such equations together remove the modulus entirely and leave a relation so short that a 2-dimensional lattice finds it instantly. The security assumption quietly required those relations to be hard to spot, and they were not.
+
+---
+
+[← All DPCH Online Qualifiers writeups](README.md)
