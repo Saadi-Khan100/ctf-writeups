@@ -6,6 +6,7 @@
 | --- | --- |
 | Category | Pwn |
 | Event | DPCH Online Qualifiers (Cydea Range platform) |
+| Team | Pwnag3 |
 | Target | `nc 52.146.88.61 39901` (earlier instance: 36256) |
 | Files given | `pwn-meeeps.tar.gz` (binary, `libc.so.6`, `ld.so.1`) |
 
