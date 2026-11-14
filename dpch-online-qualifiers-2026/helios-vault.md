@@ -184,3 +184,7 @@ This one needed **one extra `}` at the end** to be accepted. The flag template c
 ### Why it works
 
 A threshold secret-sharing scheme is nothing more than polynomial interpolation wearing a security hat. Once the field and a full quorum of points are handed to you, the secret is not hidden any more - it is determined. The "hard" part of the challenge is not the cryptography, it is the engineering: read the protocol correctly, keep the arithmetic inside the field, flush your writes, and finish fifty rounds before the clock stops.
+
+---
+
+[← All DPCH Online Qualifiers writeups](README.md)
