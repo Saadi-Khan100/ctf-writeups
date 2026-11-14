@@ -45,3 +45,7 @@ Both Helios Vault and Meeeps returned flags containing leftover template text li
 The clearest contrast between these four. For Promise I could run the handout locally, generate fresh keys and verify the whole attack eight times before touching the remote, so the live run worked on the first try and finished in 0.06 seconds. For Meeeps there was no MIPS emulator available, so the exploit was written blind, and both of the small bugs above only surfaced against a live service on a timer.
 
 When the handout can be run locally, run it. When it cannot, assume the first two attempts are reconnaissance, and print enough output that a single transcript tells you what went wrong.
+
+---
+
+[← All DPCH Online Qualifiers writeups](README.md)
