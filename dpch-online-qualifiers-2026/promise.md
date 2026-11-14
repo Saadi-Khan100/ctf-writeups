@@ -6,6 +6,7 @@
 | --- | --- |
 | Category | Crypto |
 | Event | DPCH Online Qualifiers (Cydea Range platform) |
+| Team | Pwnag3 |
 | Target | `nc 52.146.88.61 36518` - raw TCP, dumps and closes |
 | Files given | `crypto-promise.tar.gz` (contains `chall.py`) |
 
