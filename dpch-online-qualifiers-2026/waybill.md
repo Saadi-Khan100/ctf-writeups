@@ -6,6 +6,7 @@
 | --- | --- |
 | Category | Web |
 | Event | DPCH Online Qualifiers (Cydea Range platform) |
+| Team | Pwnag3 |
 | Target | `http://52.146.88.61:37531` (earlier instances: 37201, 37373) |
 | Files given | `dist.zip` (Node.js source) |
 
