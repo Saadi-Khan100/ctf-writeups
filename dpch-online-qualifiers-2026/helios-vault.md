@@ -6,6 +6,7 @@
 | --- | --- |
 | Category | Programming |
 | Event | DPCH Online Qualifiers (Cydea Range platform) |
+| Team | Pwnag3 |
 | Target | `nc 52.146.88.61 35719` - raw TCP (earlier instances: 35292, 35418) |
 | Files given | none - the service itself is the whole challenge |
 
