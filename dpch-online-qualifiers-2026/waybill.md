@@ -173,3 +173,7 @@ web{one_comma_and_the_ledger_opens_55f7564ee46a1794655057YkHANgJe3c7e159a0e91f0e
 ### The fix
 
 Validate the value you are going to use, not a different conversion of it. If the code had written `const size = parseInt(requestedSize, 10)` **first** and then checked `if (size > 10)`, there would be no bug - one value, one rule, one decision.
+
+---
+
+[← All DPCH Online Qualifiers writeups](README.md)
