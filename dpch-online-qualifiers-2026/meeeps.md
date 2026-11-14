@@ -1,4 +1,4 @@
-# Meeeps
+ Meeeps
 
 ## Understanding the challenge
 
@@ -360,3 +360,7 @@ Same generator bug as Helios Vault - the `[A-Za-z0-9]{6` is leftover template te
 ### Why it works
 
 The program checks the index on the one operation that cannot do much harm and forgets to check it on the two that can. The arbitrary read turns the GOT into a map of memory, which defeats both ASLR and PIE at no cost. The arbitrary write only gets used once, but the author placed two function calls immediately after it, and gave me control of the argument to the second one. Writing `system` over `puts` turns the program's own clean-up code into the exploit.
+
+---
+
+[← All DPCH Online Qualifiers writeups](README.md)
